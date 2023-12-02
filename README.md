@@ -69,22 +69,6 @@ Here are some of the languages I frequently use:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafikulislam775&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-
-
-<!--
-<h3 align="left">🔥   My Stats :</h3>
--->
-###
-
-
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rafikulislam775&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 <!--
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
