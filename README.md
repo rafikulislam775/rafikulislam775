@@ -53,11 +53,10 @@ Here are some ideas to get you started:
 <br />
 
 # 📊 GitHub Stats
-<h1 align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=rafikulislam775&theme=buefy&hide_border=false)
+<h1 align="center" onload="window.location.reload();">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafikulislam775&theme=buefy&hide_border=false" alt="GitHub Streak Stats"/>
   <br/>
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafikulislam775&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikulislam775&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </h1>
+
 
