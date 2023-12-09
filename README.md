@@ -50,26 +50,12 @@ Here are some ideas to get you started:
 
 Here's a snapshot of my GitHub activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafikulislam775&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=rafikulislam775&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafikulislam775&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafikulislam775&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rafikulislam775&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-Check out my GitHub streak:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafikulislam775&theme=dark&hide_border=true)
-
-<br/>
-
-Here are some of the languages I frequently use:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafikulislam775&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!--
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=rafikulislam775&icon=6&color=6)](https://visitcount.itsvg.in)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rafikulislam775&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
