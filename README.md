@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🔭 I'm currently engaged in a personal project at home.
+🌱 Delving into cutting-edge technologies to broaden my skill set.
+👯I'm actively learning and exploring various new technologies
+⚡ Interestingly, I enjoy collaborating with people from different countries, and I'm fluent in five languages
+
 -->
 <!--
 -->
